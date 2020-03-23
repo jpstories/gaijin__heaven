@@ -1,4 +1,7 @@
-# Gaijin Heaven
-Airplane tickets for the Far East and Japan
+# Gaijin Heaven (Update 1.1)
+Самые дешевые авиабилеты для перелётов в регионах Дальнего Востока, Японии, а также между ними.
+# База городов
+### Япония: 94
+### Россия (Дальний Восток): 115
 #
-![2321](https://user-images.githubusercontent.com/41709736/77246751-f83de200-6c75-11ea-8f51-1da0ac96fca7.png)
+![gj](https://user-images.githubusercontent.com/41709736/77282236-17d81780-6d15-11ea-983d-08db9ab78b09.png)
