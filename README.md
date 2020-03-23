@@ -4,4 +4,5 @@
 ### Япония: 94
 ### Россия (Дальний Восток): 115
 #
-![gj](https://user-images.githubusercontent.com/41709736/77282236-17d81780-6d15-11ea-983d-08db9ab78b09.png)
+![213213](https://user-images.githubusercontent.com/41709736/77310074-6e5f4900-6d49-11ea-8f40-5e6c9aa72aed.png)
+
